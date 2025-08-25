@@ -15,4 +15,3 @@ const WelcomePage:FC<IProps> = ({name, age}) => {
 }
 
 export default WelcomePage
-/////
